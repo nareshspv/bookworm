@@ -5,6 +5,7 @@
   "parserOptions": {
     "ecmaVersion": 2016,
     "sourceType": "module",
+    "parser": "babel-eslint",
     "ecmaFeatures": {
       "jsx": true
     }
